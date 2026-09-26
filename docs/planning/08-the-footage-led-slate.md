@@ -32,9 +32,9 @@ there and is never smoothed into fact.
 | Confirmed | 1 |
 | Rejected | 0 |
 | Districts covered | 25 of 25, between 3 and 8 films each |
-| Reference images | 381 references across 126 ideas, resolving to 368 distinct Wikimedia Commons files, every one verified to exist |
+| Reference images | 380 references across 126 ideas, resolving to 366 distinct Wikimedia Commons files, every one verified to exist |
 | Ideas with no image | 11, because Commons holds nothing for that place |
-| Films resting on a historical thread | 42 |
+| Films resting on a historical thread | 43 |
 
 ### Films per district
 
@@ -45,27 +45,27 @@ than forcing a weak location to fix a count.
 | District | Films | |
 | --- | --- | --- |
 | Anuradhapura | 8 | closed |
+| Kegalle | 8 | closed |
 | Nuwara Eliya | 8 | closed |
 | Hambantota | 7 | closed |
-| Kegalle | 7 | closed |
 | Mannar | 7 | closed |
+| Matale | 7 | closed |
 | Monaragala | 7 | closed |
 | Ampara | 6 |  |
 | Badulla | 6 |  |
-| Jaffna | 6 |  |
-| Matale | 6 |  |
 | Ratnapura | 6 |  |
 | Trincomalee | 6 |  |
 | Colombo | 5 |  |
 | Galle | 5 |  |
+| Jaffna | 5 |  |
 | Kalutara | 5 |  |
 | Kurunegala | 5 |  |
 | Matara | 5 |  |
-| Polonnaruwa | 5 |  |
 | Batticaloa | 4 | prefer |
 | Gampaha | 4 | prefer |
 | Kandy | 4 | prefer |
 | Mullaitivu | 4 | prefer |
+| Polonnaruwa | 4 | prefer |
 | Puttalam | 4 | prefer |
 | Vavuniya | 4 | prefer |
 | Kilinochchi | 3 | prefer |
@@ -127,7 +127,7 @@ and four water-diversion films — one agent having written the same film twice 
 | IDEA-0004 | The Metal Never Changed | Koneswaram temple on Swami Rock, Trincomalee | Trincomalee | pending |
 | IDEA-0005 | What Will Not Wash Away | Mulkirigala Rock Temple (Mulkirigala Raja Maha Vihara) | Hambantota | pending |
 | IDEA-0006 | Nobody's Name | Pahiyangala (Fa-Hien Cave / Fa-Hien Lena) | Kalutara | pending |
-| IDEA-0007 | The Whole Thing at Once | Parakrama Samudra (Parakrama Samudraya), the Sea of Parakrama | Polonnaruwa | pending |
+| IDEA-0007 | Where It Was Written | Aluvihare Rock Temple (Aluvihara, Matale Alu Viharaya) | Matale | pending |
 | IDEA-0008 | Besides These, Is There Another? | Mihintale: the Ambasthala terrace, the railed rock slab, the Aradhana Gala and the great stairway | Anuradhapura | pending |
 | IDEA-0009 | Everything Here Was Something Else | Jaffna Fort | Jaffna | pending |
 | IDEA-0010 | Seven, and Nobody Agrees | Buduruwagala rock-cut figures (Buduruwagala Raja Maha Viharaya) | Monaragala | pending |
@@ -172,7 +172,7 @@ and four water-diversion films — one agent having written the same film twice 
 | IDEA-0041 | The Water Is Already Spoken For | The Kirindi Oya system: the Lunugamvehera reservoir sluices, the Ellagala anicut and the right-bank main canal down to the old tanks | Hambantota | pending |
 | IDEA-0042 | A Clay Which Is As White | The royal palace and temple precinct of Kandy at the head of Kandy Lake: the white outer walls of the Sri Dalada Maligawa (Temple of the Sacred Tooth Relic) and the octagonal Pattirippuwa, the palace buildings beside them, the Walakulu Bemma (the 'cloud wall' parapet) along the lake, and the hillsides of the town seen from the Arthur's Seat viewpoint on Rajapihilla Mawatha | Kandy | pending |
 | IDEA-0043 | Everything Goes Up by Hand | Sankapala Rajamaha Viharaya, on the rock south of Pallebedda | Ratnapura | pending |
-| IDEA-0044 | Everything Waits for the Boat | The Divisional Secretariat on Delft island | Jaffna | pending |
+| IDEA-0044 | Stopped Whilst in Progress | Berendi Kovil (Barendi / Barandi Kovila), Sītāvaka: the shrine platform, its three terraces and the slab bridge over the old ditch, in the bend of the Sītāvaka Ganga | Kegalle | pending |
 | IDEA-0045 | The Line Stops at the Water | The derelict pier and rebuilt terminus at the end of the northern railway line at Talaimannar, with the chain of shoals beyond it | Mannar | pending |
 | IDEA-0221 | They Said There Was No Price | Berendi Kovil (Barandi Kovila), Sītāvaka — the three terraces, the paved stone channel down to the Sītāvaka Ganga, and the old stone bridge on the approach | Kegalle | pending |
 

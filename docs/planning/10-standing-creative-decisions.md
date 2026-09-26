@@ -8,6 +8,17 @@ different mistake. Each entry is here to stop that happening a third time.
 `prompts/footage-led-idea-brief.md` is the working brief handed to whoever writes an idea. This file is
 the record of *why* the brief says what it says, and it is the authority where the two disagree.
 
+## Group status: read before touching any group
+
+| Group | Status | Meaning |
+| --- | --- | --- |
+| GRP-01 The Names of Things | **Locations complete, awaiting Chathura's review** (closed 2026-09-27) | Do not re-select or rewrite any GRP-01 location. The eight selected films are 0001, 0002, 0003, 0004, 0006, 0007, 0008 and 0009, all `pending`, waiting for his confirm or reject. 0005, 0010, 0011 and 0012 are spares on `hold`. Only his verdicts reopen anything. |
+| GRP-02, GRP-03 | Rework in progress | Staged plan; see the session notes. |
+| GRP-04 onward | Not started under the current method | Do not start until GRP-02 and GRP-03 are closed. |
+
+Known carry-over from GRP-01: 0007 (Aluvihare) shares its site with 0079 (GRP-05). 0079 must move when GRP-05
+is reworked; until then Matale reads one film over its count.
+
 ---
 
 ## 1. The films are footage-led, never biography

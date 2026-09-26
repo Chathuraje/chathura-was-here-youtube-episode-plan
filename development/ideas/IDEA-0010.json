@@ -4,9 +4,9 @@
   "record_type": "idea",
   "title": "Seven, and Nobody Agrees",
   "status": "draft",
-  "version": 4,
+  "version": 5,
   "created_at": "2026-09-18",
-  "updated_at": "2026-09-25",
+  "updated_at": "2026-09-27",
   "created_by": "claude",
   "updated_by": "claude",
   "aliases": [
@@ -122,10 +122,10 @@
     }
   ],
   "selection": {
-    "recommendation": "keep",
+    "recommendation": "hold",
     "merged_with": [],
     "superseded_by": null,
-    "reason": "It is the only candidate in the group where the compendium's own practice of exact enumeration is physically present at cinema scale and where the count is the single undisputed fact on the site, and it replaces a gem-washing film that duplicated another candidate's archetype."
+    "reason": "Spare, held 2026-09-27. The GRP-01 audit found C077 carried only by an observation true of any group of objects (a C084 film in effect), the same archetype and opening as IDEA-0012, and Monaragala over budget. Kept as a spare at Chathura's instruction."
   },
   "review": {
     "status": "pending",

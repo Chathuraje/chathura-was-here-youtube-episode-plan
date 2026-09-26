@@ -4,9 +4,9 @@
   "record_type": "idea",
   "title": "The Colour of the Sand",
   "status": "draft",
-  "version": 5,
+  "version": 6,
   "created_at": "2026-09-18",
-  "updated_at": "2026-09-25",
+  "updated_at": "2026-09-27",
   "created_by": "claude",
   "updated_by": "claude",
   "aliases": [
@@ -125,10 +125,10 @@
     }
   ],
   "selection": {
-    "recommendation": "keep",
+    "recommendation": "hold",
     "merged_with": [],
     "superseded_by": null,
-    "reason": "It is the widest gap between a name and its basis available anywhere on the slate: the oldest recorded name for the entire country is, on the tradition's own telling, a word for the colour of the earth at one small cape, and that earth is still lying there, the same colour, doing nothing. It is also the group's only landscape with no architecture, no worship and nobody in frame, which is what the group was told it was missing."
+    "reason": "Spare, held 2026-09-27. Not chosen for GRP-01's eighth slot (IDEA-0006 was). The audit found dating errors (the red-palms story is already in the Dipavamsa; 'three centuries' is about 750–800 years), the Hippuros 'horse mountain' folk etymology, and a contested landing site asserted as fact. Kept as a spare."
   },
   "review": {
     "status": "pending",

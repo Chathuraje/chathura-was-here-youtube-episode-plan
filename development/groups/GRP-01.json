@@ -3,12 +3,12 @@
   "id": "GRP-01",
   "record_type": "chronological_group",
   "title": "The Names of Things",
-  "status": "draft",
-  "version": 3,
+  "status": "awaiting_review",
+  "version": 4,
   "created_at": "2026-09-18",
-  "updated_at": "2026-09-21",
+  "updated_at": "2026-09-27",
   "created_by": "claude",
-  "updated_by": "chathura",
+  "updated_by": "claude",
   "chronological_position": 1,
   "emotional_stage": "Wonder",
   "tone": "bright, curious, open",
@@ -60,7 +60,8 @@
   "episode_ids": [],
   "unknowns": [
     "The 98-film Chronology v1 slate now fixes this group's current film count, but the slate remains draft pending Chathura's creative approval.",
-    "Concept roles remain draft working glosses; completed digests do not make them creatively or doctrinally approved."
+    "Concept roles remain draft working glosses; completed digests do not make them creatively or doctrinally approved.",
+    "2026-09-27: locations complete; group closed and awaiting Chathura's confirm/reject. Selected: IDEA-0001, 0002, 0003, 0004, 0006, 0007, 0008, 0009 (all pending). Spares on hold: IDEA-0005, 0010, 0011, 0012. Carry-over: IDEA-0007 shares Aluvihare with IDEA-0079 (GRP-05), which must move in the GRP-05 rework."
   ],
   "provenance": {
     "derived_from": [
